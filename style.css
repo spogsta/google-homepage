@@ -1,0 +1,79 @@
+#header{
+    display: flex;                  /* establish flex container */
+    flex-direction: row;            /* default value; can be omitted */
+    flex-wrap: nowrap;              /* default value; can be omitted */
+    justify-content: space-between; /* switched from default (flex-start, see below) */
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    
+     
+}
+#left-header{
+    justify-content: flex-start;
+    padding-left: 15px;
+}
+
+#right-header{
+   justify-content: flex-end;
+   padding-right: 15px;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    display: block;
+    padding-top:110px;
+}
+input{
+    text-align:center;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    color:grey;
+
+
+}
+#buttons{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+button{
+    border-radius: 4px;
+}
+
+#footer{
+    display: flex;                  /* establish flex container */
+    flex-direction: row;            /* default value; can be omitted */
+    flex-wrap: nowrap;              /* default value; can be omitted */
+    justify-content: space-between; /* switched from default (flex-start, see below) */
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 98%;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+#footer-left{
+    justify-content: flex-start;
+    padding-left: 15px;
+}
+
+#footer-right{
+    justify-content: flex-end;
+    padding-right: 30px;
+   
+}
+
+a { font-size:10px;
+    color:grey;
+    text-decoration: none;
+
+}
