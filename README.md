@@ -1,4 +1,4 @@
-this project I will eyeball/sightread a webpage and try to reconstruct it visually. There will be no working links or functional scripts beyond aesthetics. I will take a "good enough" approach and not be too picky if things arent perfect, I'm more concerned about proper page layound and placement versus correct buttons and icons. That would take far too long to get that perfect.
+this project I will eyeball/sightread a webpage and try to reconstruct it visually. There will be no working links or functional scripts beyond aesthetics. I will take a "good enough" approach and not be too picky if things aren't perfect, I'm more concerned about proper page layound and placement versus correct buttons and icons. That would take far too long to get that perfect.
 
 What I learned? I brushed up on some CSS and HTML, which was much needed. I found the header particularly difficult to get centered, I learned I need to study more into FLEX containers to understand how they work.
 
